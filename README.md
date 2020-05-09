@@ -1,4 +1,4 @@
-# Drupal Dev Environment
+# Docker Drupal Development Environment
 
 Use this Docker development environment template to spin up docker images to host a clean Drupal application. The services used are as follows:
 
@@ -37,3 +37,8 @@ TBA
 
 
 REFERENCES: https://www.linode.com/docs/quick-answers/linux/drupal-with-docker-compose/
+
+## Similar Applications
+
+* [Docker WordPress Development Environment](https://github.com/jonepl/Docker-WordPress-Dev-Env)
+* [Docker Joomla  Development Environment](https://github.com/jonepl/Docker-Joomla-Dev-Env)
